@@ -81,6 +81,13 @@ Soy desarrollador **Fullstack** apasionado por crear experiencias web intuitivas
 
 ---
 
+## 🌐 Demo en línea
+
+Puedes ver la aplicación funcionando aquí:  
+[https://glittering-mooncake-e38b08.netlify.app/](https://glittering-mooncake-e38b08.netlify.app/)
+
+---
+
 ## 📬 Contacto
 
 ¿Te gustaría saber más o colaborar?  
