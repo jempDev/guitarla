@@ -84,14 +84,14 @@ Soy desarrollador **Fullstack** apasionado por crear experiencias web intuitivas
 ## 🌐 Demo en línea
 
 Puedes ver la aplicación funcionando aquí:  
-[https://glittering-mooncake-e38b08.netlify.app/](https://glittering-mooncake-e38b08.netlify.app/)
+<a href="https://glittering-mooncake-e38b08.netlify.app/" target="_blank">https://glittering-mooncake-e38b08.netlify.app/</a>
 
 ---
 
 ## 📬 Contacto
 
 ¿Te gustaría saber más o colaborar?  
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-eduardo-mart%C3%ADnez-p%C3%A9rez-5694a0172/) | [Email](mailto:ingsisjoseeduardo@outlook.com.com)
+<a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-mart%C3%ADnez-p%C3%A9rez-5694a0172/" target="_blank">LinkedIn</a> | <a href="mailto:ingsisjoseeduardo@outlook.com.com" target="_blank">Email</a>
 
 ---
 
